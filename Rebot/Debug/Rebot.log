@@ -1,0 +1,20 @@
+﻿生成启动时间为 2015/4/1 19:17:36。
+     1>项目“C:\Users\dong\Documents\Visual Studio 2013\Projects\Rebot\Rebot\Rebot.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt AlphaBeta_2.cpp
+         AlphaBeta_2.cpp
+     1>c:\users\dong\documents\visual studio 2013\projects\rebot\rebot\alphabeta_2.cpp(197): warning C4305: “return”: 从“__int64”到“int”截断
+     1>c:\users\dong\documents\visual studio 2013\projects\rebot\rebot\alphabeta_2.cpp(197): warning C4309: “return”: 截断常量值
+     1>c:\users\dong\documents\visual studio 2013\projects\rebot\rebot\alphabeta_2.cpp(201): warning C4305: “return”: 从“__int64”到“int”截断
+     1>c:\users\dong\documents\visual studio 2013\projects\rebot\rebot\alphabeta_2.cpp(201): warning C4309: “return”: 截断常量值
+     1>c:\users\dong\documents\visual studio 2013\projects\rebot\rebot\alphabeta_2.cpp(512): warning C4305: “参数”: 从“__int64”到“long”截断
+     1>c:\users\dong\documents\visual studio 2013\projects\rebot\rebot\alphabeta_2.cpp(512): warning C4309: “参数”: 截断常量值
+     1>c:\users\dong\documents\visual studio 2013\projects\rebot\rebot\alphabeta_2.cpp(616): warning C4101: “computerSide”: 未引用的局部变量
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\dong\Documents\Visual Studio 2013\Projects\Rebot\Debug\Rebot.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\dong\Documents\Visual Studio 2013\Projects\Rebot\Debug\Rebot.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\dong\Documents\Visual Studio 2013\Projects\Rebot\Debug\Rebot.lib" /MACHINE:X86 Debug\AlphaBeta_2.obj
+         Rebot.vcxproj -> C:\Users\dong\Documents\Visual Studio 2013\Projects\Rebot\Debug\Rebot.exe
+     1>已完成生成项目“C:\Users\dong\Documents\Visual Studio 2013\Projects\Rebot\Rebot\Rebot.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.53
